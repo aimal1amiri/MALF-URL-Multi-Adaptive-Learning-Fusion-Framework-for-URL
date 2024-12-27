@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hybrid Learning Framework: Combines deep learning (BERT) with traditional machine learning classifiers.<br>Dynamic Feature Fusion: Balances the importance of semantic and structural URL features.<br>Adaptive Meta-Learner: Utilizes dynamic weighting to optimize classifier contributions.<br>Comprehensive Feature Analysis: Extracts structural features like URL length, path length, domain characteristics, and combines them with BERT-derived embeddings.<br>Scalability: Designed to adapt to evolving phishing threats with robust generalization across diverse datasets.<br>Performance Benchmarks: Achieves high accuracy, precision, and recall metrics, outperforming standalone approaches.</p>
+<p align="left">Model: Combines deep learning (BERT) with traditional machine learning classifiers.<br>Dynamic Feature Fusion: Balances the importance of semantic and structural URL features.<br>Adaptive Meta-Learner: Utilizes dynamic weighting to optimize classifier contributions.<br>Comprehensive Feature Analysis: Extracts structural features like URL length, path length, domain characteristics, and combines them with BERT-derived embeddings.<br>Scalability: Designed to adapt to evolving phishing threats with robust generalization across diverse datasets.<br>Performance Benchmarks: Achieves high accuracy, precision, and recall metrics, outperforming standalone approaches.</p>
 
 ###
 
